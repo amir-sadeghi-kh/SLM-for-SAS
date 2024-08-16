@@ -3,6 +3,8 @@
 Welcome to the SLM-for-SAS repository! This project aims to train a small language model (SLM) to learn and understand the SAS programming language. Given the current limitations in language models for SAS, 
 this repository provides the tools and code necessary to fine-tune an existing language model specifically for SAS.
 
+TODO: explain the line above "limitations in language models" say the results are not okay. need fine tune
+
 ## Table of Contents
 
 - [Introduction](#introduction)
